@@ -95,7 +95,7 @@ pyswarms
 lime
 numpy, pandas, matplotlib, seaborn, scikit-learn, tqdm
 
-## 🔗 References (selected)
+## 🔗 References
 
 Kennedy, J., & Eberhart, R. (1995). Particle swarm optimization
 Dorigo, M., & Stützle, T. (2004). Ant Colony Optimization
