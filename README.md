@@ -85,19 +85,7 @@ NIC-DSAI403-Final/
 ├── *.csv                             # Generated results & logs
 └── README.md                         # This file
 
-## 🚀 How to Run
-
-1. Clone the repository
-
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/NIC-Metaheuristic-Optimization-DSAI403.git
-   cd NIC-Metaheuristic-Optimization-DSAI403
-   
-2.Install dependencies
-     ```bash
-     pip install tensorflow torch transformers pyswarms lime \
-    pandas numpy matplotlib seaborn scikit-learn tqdm
-##📚 Requirements
+## 📚 Requirements
 
 Python 3.8+
 TensorFlow 2.x
@@ -107,7 +95,7 @@ pyswarms
 lime
 numpy, pandas, matplotlib, seaborn, scikit-learn, tqdm
 
-##🔗 References (selected)
+## 🔗 References (selected)
 
 Kennedy, J., & Eberhart, R. (1995). Particle swarm optimization
 Dorigo, M., & Stützle, T. (2004). Ant Colony Optimization
@@ -117,7 +105,7 @@ Yang, X. S. (2009). Firefly algorithms for multimodal optimization
 Mirjalili, S. et al. (2014). Grey wolf optimizer
 Ribeiro, M. T. et al. (2016). "Why should I trust you?": Explaining the predictions of any classifier (LIME)
 
-##📝 License
+## 📝 License
 Educational / Academic use only.
 This project is part of the DSAI 403 – Nature Inspired Computation course at Zewail City.
 Made with 🐺🦅🦇🔥🐳 for DSAI 403 – December 2025
